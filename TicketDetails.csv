@@ -1,0 +1,8 @@
+Date,BusId,Name,Age,Gender,Boarding Point,Departure Date,Time,Drop Point,Drop Date,Drop Time,Price,Phone,Seat,Date of Booking
+
+
+
+20-07-2024,1111,Prabhanshu Singh,20,Male,Goa,20-07-2024,08:00,Delhi,21-07-2024,16:00,700,8476851656,6,13-07-2024
+20-07-2024,1111,Aastha Gupta,21,Female,Goa,20-07-2024,08:00,Delhi,21-07-2024,16:00,700,6230291404,5,13-07-2024
+20-07-2024,1111,Balaji,35,Male,Goa,20-07-2024,08:00,Delhi,21-07-2024,16:00,700,9988774455,1,13-07-2024
+20-07-2024,1111,Vishnu Paswan,22,Male,Goa,20-07-2024,08:00,Delhi,21-07-2024,16:00,700,7019761741,4,2024-07-13
